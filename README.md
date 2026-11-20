@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Balazs</h1>
-<h3 align="center">A fullstack developer from Budapest, Hungary</h3>
 
 - 🌱 I’m currently learning **Node.js**
 
